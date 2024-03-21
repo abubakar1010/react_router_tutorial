@@ -29,6 +29,9 @@ export default function Root() {
                 <nav>
                     <ul>
                         <li>
+                            <a href={`/notes`}>{`Notes`}</a>
+                        </li>
+                        <li>
                             <a href={`/contacts/1`}>Your Name</a>
                         </li>
                         <li>
